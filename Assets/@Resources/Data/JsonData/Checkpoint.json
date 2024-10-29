@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "id": "C01",
+      "speed": 2.0,
+      "seconds": 90.0,
+      "distance": 180,
+      "cumulative": 180,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C02",
+      "speed": 2.2,
+      "seconds": 90.0,
+      "distance": 198,
+      "cumulative": 378,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C03",
+      "speed": 2.4,
+      "seconds": 90.0,
+      "distance": 216,
+      "cumulative": 594,
+      "probabilityIncrease": 0.1
+    },
+    {
+      "id": "C04",
+      "speed": 2.6,
+      "seconds": 90.0,
+      "distance": 234,
+      "cumulative": 828,
+      "probabilityIncrease": 0.05
+    },
+    {
+      "id": "C05",
+      "speed": 2.8,
+      "seconds": 90.0,
+      "distance": 252,
+      "cumulative": 1080,
+      "probabilityIncrease": 0.05
+    },
+    {
+      "id": "C06",
+      "speed": 3.0,
+      "seconds": 80.0,
+      "distance": 240,
+      "cumulative": 1320,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C07",
+      "speed": 3.2,
+      "seconds": 80.0,
+      "distance": 256,
+      "cumulative": 1576,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C08",
+      "speed": 3.4,
+      "seconds": 80.0,
+      "distance": 272,
+      "cumulative": 1848,
+      "probabilityIncrease": 0.05
+    },
+    {
+      "id": "C09",
+      "speed": 3.6,
+      "seconds": 80.0,
+      "distance": 288,
+      "cumulative": 2136,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C10",
+      "speed": 3.8,
+      "seconds": 80.0,
+      "distance": 304,
+      "cumulative": 2440,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C11",
+      "speed": 4.0,
+      "seconds": 70.0,
+      "distance": 280,
+      "cumulative": 2720,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C12",
+      "speed": 4.2,
+      "seconds": 70.0,
+      "distance": 294,
+      "cumulative": 3014,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C13",
+      "speed": 4.4,
+      "seconds": 70.0,
+      "distance": 308,
+      "cumulative": 3322,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C14",
+      "speed": 4.6,
+      "seconds": 70.0,
+      "distance": 322,
+      "cumulative": 3644,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C15",
+      "speed": 4.8,
+      "seconds": 70.0,
+      "distance": 336,
+      "cumulative": 3980,
+      "probabilityIncrease": 0.05
+    },
+    {
+      "id": "C16",
+      "speed": 5.0,
+      "seconds": 60.0,
+      "distance": 300,
+      "cumulative": 4280,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C17",
+      "speed": 5.2,
+      "seconds": 60.0,
+      "distance": 312,
+      "cumulative": 4592,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C18",
+      "speed": 5.4,
+      "seconds": 60.0,
+      "distance": 324,
+      "cumulative": 4916,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C19",
+      "speed": 5.6,
+      "seconds": 60.0,
+      "distance": 336,
+      "cumulative": 5252,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C20",
+      "speed": 5.8,
+      "seconds": 60.0,
+      "distance": 348,
+      "cumulative": 5600,
+      "probabilityIncrease": 0.0
+    },
+    {
+      "id": "C21",
+      "speed": 6.0,
+      "seconds": 60.0,
+      "distance": 360,
+      "cumulative": 5960,
+      "probabilityIncrease": 0.05
+    }
+  ]
+}

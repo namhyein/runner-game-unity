@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "1001",
+      "minCatnip": 5,
+      "catnip": 0.2,
+      "attack": 0,
+      "attackCatnip": 0,
+      "attackCatnipPercent": 0.0
+    },
+    {
+      "id": "2001",
+      "minCatnip": 4,
+      "catnip": 0.1,
+      "attack": 1,
+      "attackCatnip": 13,
+      "attackCatnipPercent": 0.6
+    },
+    {
+      "id": "2002",
+      "minCatnip": 4,
+      "catnip": 0.1,
+      "attack": 1,
+      "attackCatnip": 13,
+      "attackCatnipPercent": 0.6
+    },
+    {
+      "id": "2003",
+      "minCatnip": 4,
+      "catnip": 0.1,
+      "attack": 0,
+      "attackCatnip": 0,
+      "attackCatnipPercent": 0.0
+    },
+    {
+      "id": "4001",
+      "minCatnip": 10,
+      "catnip": 1.0,
+      "attack": 0,
+      "attackCatnip": 0,
+      "attackCatnipPercent": 0.0
+    }
+  ]
+}

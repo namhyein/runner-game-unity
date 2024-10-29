@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Static_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: f867ae542b62243e098d123b28069094, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6873407488
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735681630208
+    m_Localized: "Cont\xE1ctenos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2597678211072
+    m_Localized: "Succ\xE8s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3267135266816
+    m_Localized: Hebdomadaires
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3205013430272
+    m_Localized: Quotidiennes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4878033215488
+    m_Localized: Boutique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4908001517568
+    m_Localized: "R\xE9compenses gratuites"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5317256536064
+    m_Localized: Monnaies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5298101149696
+    m_Localized: Diamantes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7307801911296
+    m_Localized: Promotion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995718098944
+    m_Localized: Classement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8698146578432
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9477897052160
+    m_Localized: Chargement...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11894655016960
+    m_Localized: Boutique quotidienne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715611557584896
+    m_Localized: "\u20AC"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

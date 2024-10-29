@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": "PO1001000",
+      "days": "O",
+      "type": 1,
+      "removead": 0,
+      "dia": 100,
+      "coin": 0,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "PO1006000",
+      "days": "O",
+      "type": 1,
+      "removead": 0,
+      "dia": 550,
+      "coin": 0,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "PO1012000",
+      "days": "O",
+      "type": 1,
+      "removead": 0,
+      "dia": 1200,
+      "coin": 0,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "PO1025000",
+      "days": "O",
+      "type": 1,
+      "removead": 0,
+      "dia": 2500,
+      "coin": 0,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "PO2100000",
+      "days": "O",
+      "type": 2,
+      "removead": 1,
+      "dia": 0,
+      "coin": 0,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "PO2105111",
+      "days": "O",
+      "type": 2,
+      "removead": 1,
+      "dia": 500,
+      "coin": 30000,
+      "potion": 5,
+      "heart": 50
+    },
+    {
+      "id": "PO2125111",
+      "days": "O",
+      "type": 2,
+      "removead": 1,
+      "dia": 2500,
+      "coin": 150000,
+      "potion": 10,
+      "heart": 100
+    },
+    {
+      "id": "PD3000001",
+      "days": "D",
+      "type": 3,
+      "removead": 0,
+      "dia": 0,
+      "coin": 0,
+      "potion": 0,
+      "heart": -1
+    },
+    {
+      "id": "PW3002101",
+      "days": "W",
+      "type": 3,
+      "removead": 0,
+      "dia": 200,
+      "coin": 20000,
+      "potion": 0,
+      "heart": -1
+    },
+    {
+      "id": "PM3110111",
+      "days": "M",
+      "type": 3,
+      "removead": 1,
+      "dia": 1000,
+      "coin": 100000,
+      "potion": 10,
+      "heart": -1
+    }
+  ]
+}

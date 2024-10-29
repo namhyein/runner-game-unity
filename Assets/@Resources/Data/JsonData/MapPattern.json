@@ -1,0 +1,2419 @@
+{
+  "items": [
+    {
+      "id": "201001",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "201002",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 25.0
+    },
+    {
+      "id": "201003",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 25.0
+    },
+    {
+      "id": "201004",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "201005",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "201006",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "201007",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "201008",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "201009",
+      "checkpoint": 1,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "202001",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "202002",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 25.0
+    },
+    {
+      "id": "202003",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 25.0
+    },
+    {
+      "id": "202004",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "202005",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "202006",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "202007",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "202008",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "202009",
+      "checkpoint": 2,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "203001",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "203002",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 25.0
+    },
+    {
+      "id": "203003",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 25.0
+    },
+    {
+      "id": "203004",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "203005",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "203006",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "203007",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "203008",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "203009",
+      "checkpoint": 3,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "204001",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "204002",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "204003",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "204004",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "204005",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "204006",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "204007",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "204008",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "204009",
+      "checkpoint": 4,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "205001",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "205002",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "205003",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "205004",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "205005",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "205006",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "205007",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "205008",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "205009",
+      "checkpoint": 5,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "206001",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "206002",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "206003",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "206004",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "206005",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "206006",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "206007",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "206008",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "206009",
+      "checkpoint": 6,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "207001",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "207002",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "207003",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "207004",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "207005",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "207006",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "207007",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "207008",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "207009",
+      "checkpoint": 7,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "208001",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "208002",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "208003",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "208004",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "208005",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "208006",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "208007",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "208008",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "208009",
+      "checkpoint": 8,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "209001",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "209002",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "209003",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "209004",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "209005",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "209006",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "209007",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "209008",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "209009",
+      "checkpoint": 9,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "210001",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "210002",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "210003",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "210004",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "210005",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "210006",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "210007",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "210008",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "210009",
+      "checkpoint": 10,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "211001",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "211002",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "211003",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "211004",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "211005",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "211006",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "211007",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "211008",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "211009",
+      "checkpoint": 11,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "212001",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "212002",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "212003",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "212004",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "212005",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "212006",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "212007",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "212008",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "212009",
+      "checkpoint": 12,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "213001",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "213002",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "213003",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "213004",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "213005",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "213006",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "213007",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "213008",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "213009",
+      "checkpoint": 13,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "214001",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "214002",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "214003",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "214004",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "214005",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "214006",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "214007",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "214008",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "214009",
+      "checkpoint": 14,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "215001",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "215002",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "215003",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "215004",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "215005",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "215006",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "215007",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "215008",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "215009",
+      "checkpoint": 15,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "216001",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "216002",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "216003",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "216004",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "216005",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "216006",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "216007",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "216008",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "216009",
+      "checkpoint": 16,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "217001",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "217002",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "217003",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "217004",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "217005",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "217006",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "217007",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "217008",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "217009",
+      "checkpoint": 17,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "218001",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "218002",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "218003",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "218004",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "218005",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "218006",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "218007",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "218008",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "218009",
+      "checkpoint": 18,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "219001",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "219002",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "219003",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "219004",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "219005",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "219006",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "219007",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "219008",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "219009",
+      "checkpoint": 19,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "220001",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "220002",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 30.0
+    },
+    {
+      "id": "220003",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 35.0
+    },
+    {
+      "id": "220004",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "220005",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "220006",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 0.0
+    },
+    {
+      "id": "220007",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "220008",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "220009",
+      "checkpoint": 20,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    },
+    {
+      "id": "221001",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "11002",
+        "11003",
+        "11004",
+        "11005",
+        "11006",
+        "11007",
+        "11008",
+        "11009"
+      ],
+      "probability": 12.0
+    },
+    {
+      "id": "221002",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "12002",
+        "12003",
+        "12004",
+        "12005",
+        "12006",
+        "12007",
+        "12008",
+        "12009",
+        "12010",
+        "12011",
+        "12012",
+        "12013",
+        "12014",
+        "12015",
+        "12016"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "221003",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "13002",
+        "13003",
+        "13004",
+        "13005",
+        "13006",
+        "13007",
+        "13008",
+        "13009",
+        "13010",
+        "13011",
+        "13012",
+        "13013",
+        "13014",
+        "13015",
+        "13016",
+        "13017"
+      ],
+      "probability": 25.0
+    },
+    {
+      "id": "221004",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "14001",
+        "14002",
+        "14003",
+        "14004",
+        "14005",
+        "14006",
+        "14007"
+      ],
+      "probability": 15.0
+    },
+    {
+      "id": "221005",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "15001",
+        "15002"
+      ],
+      "probability": 10.0
+    },
+    {
+      "id": "221006",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "16001"
+      ],
+      "probability": 5.0
+    },
+    {
+      "id": "221007",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "11001"
+      ],
+      "probability": 8.0
+    },
+    {
+      "id": "221008",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "12001"
+      ],
+      "probability": 7.0
+    },
+    {
+      "id": "221009",
+      "checkpoint": 21,
+      "placementPatternIds": [
+        "13001"
+      ],
+      "probability": 3.0
+    }
+  ]
+}

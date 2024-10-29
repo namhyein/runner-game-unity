@@ -1,0 +1,514 @@
+{
+  "items": [
+    {
+      "id": "C011001",
+      "checkpoint": 1,
+      "monsterId": 1001,
+      "probability": 0.9
+    },
+    {
+      "id": "C012001",
+      "checkpoint": 1,
+      "monsterId": 2001,
+      "probability": 0.1
+    },
+    {
+      "id": "C012002",
+      "checkpoint": 1,
+      "monsterId": 2002,
+      "probability": 0.0
+    },
+    {
+      "id": "C012003",
+      "checkpoint": 1,
+      "monsterId": 2003,
+      "probability": 0.0
+    },
+    {
+      "id": "C021001",
+      "checkpoint": 2,
+      "monsterId": 1001,
+      "probability": 0.85
+    },
+    {
+      "id": "C022001",
+      "checkpoint": 2,
+      "monsterId": 2001,
+      "probability": 0.1
+    },
+    {
+      "id": "C022002",
+      "checkpoint": 2,
+      "monsterId": 2002,
+      "probability": 0.05
+    },
+    {
+      "id": "C022003",
+      "checkpoint": 2,
+      "monsterId": 2003,
+      "probability": 0.0
+    },
+    {
+      "id": "C024001",
+      "checkpoint": 2,
+      "monsterId": 4001,
+      "probability": 0.0
+    },
+    {
+      "id": "C031001",
+      "checkpoint": 3,
+      "monsterId": 1001,
+      "probability": 0.8
+    },
+    {
+      "id": "C032001",
+      "checkpoint": 3,
+      "monsterId": 2001,
+      "probability": 0.1
+    },
+    {
+      "id": "C032002",
+      "checkpoint": 3,
+      "monsterId": 2002,
+      "probability": 0.1
+    },
+    {
+      "id": "C032003",
+      "checkpoint": 3,
+      "monsterId": 2003,
+      "probability": 0.0
+    },
+    {
+      "id": "C041001",
+      "checkpoint": 4,
+      "monsterId": 1001,
+      "probability": 0.75
+    },
+    {
+      "id": "C042001",
+      "checkpoint": 4,
+      "monsterId": 2001,
+      "probability": 0.1
+    },
+    {
+      "id": "C042002",
+      "checkpoint": 4,
+      "monsterId": 2002,
+      "probability": 0.1
+    },
+    {
+      "id": "C042003",
+      "checkpoint": 4,
+      "monsterId": 2003,
+      "probability": 0.05
+    },
+    {
+      "id": "C051001",
+      "checkpoint": 5,
+      "monsterId": 1001,
+      "probability": 0.7
+    },
+    {
+      "id": "C052001",
+      "checkpoint": 5,
+      "monsterId": 2001,
+      "probability": 0.1
+    },
+    {
+      "id": "C052002",
+      "checkpoint": 5,
+      "monsterId": 2002,
+      "probability": 0.1
+    },
+    {
+      "id": "C052003",
+      "checkpoint": 5,
+      "monsterId": 2003,
+      "probability": 0.1
+    },
+    {
+      "id": "C061001",
+      "checkpoint": 6,
+      "monsterId": 1001,
+      "probability": 0.7
+    },
+    {
+      "id": "C062001",
+      "checkpoint": 6,
+      "monsterId": 2001,
+      "probability": 0.1
+    },
+    {
+      "id": "C062002",
+      "checkpoint": 6,
+      "monsterId": 2002,
+      "probability": 0.1
+    },
+    {
+      "id": "C062003",
+      "checkpoint": 6,
+      "monsterId": 2003,
+      "probability": 0.1
+    },
+    {
+      "id": "C071001",
+      "checkpoint": 7,
+      "monsterId": 1001,
+      "probability": 0.65
+    },
+    {
+      "id": "C072001",
+      "checkpoint": 7,
+      "monsterId": 2001,
+      "probability": 0.15
+    },
+    {
+      "id": "C072002",
+      "checkpoint": 7,
+      "monsterId": 2002,
+      "probability": 0.1
+    },
+    {
+      "id": "C072003",
+      "checkpoint": 7,
+      "monsterId": 2003,
+      "probability": 0.1
+    },
+    {
+      "id": "C081001",
+      "checkpoint": 8,
+      "monsterId": 1001,
+      "probability": 0.65
+    },
+    {
+      "id": "C082001",
+      "checkpoint": 8,
+      "monsterId": 2001,
+      "probability": 0.15
+    },
+    {
+      "id": "C082002",
+      "checkpoint": 8,
+      "monsterId": 2002,
+      "probability": 0.1
+    },
+    {
+      "id": "C082003",
+      "checkpoint": 8,
+      "monsterId": 2003,
+      "probability": 0.1
+    },
+    {
+      "id": "C091001",
+      "checkpoint": 9,
+      "monsterId": 1001,
+      "probability": 0.6
+    },
+    {
+      "id": "C092001",
+      "checkpoint": 9,
+      "monsterId": 2001,
+      "probability": 0.15
+    },
+    {
+      "id": "C092002",
+      "checkpoint": 9,
+      "monsterId": 2002,
+      "probability": 0.15
+    },
+    {
+      "id": "C092003",
+      "checkpoint": 9,
+      "monsterId": 2003,
+      "probability": 0.1
+    },
+    {
+      "id": "C101001",
+      "checkpoint": 10,
+      "monsterId": 1001,
+      "probability": 0.55
+    },
+    {
+      "id": "C102001",
+      "checkpoint": 10,
+      "monsterId": 2001,
+      "probability": 0.15
+    },
+    {
+      "id": "C102002",
+      "checkpoint": 10,
+      "monsterId": 2002,
+      "probability": 0.15
+    },
+    {
+      "id": "C102003",
+      "checkpoint": 10,
+      "monsterId": 2003,
+      "probability": 0.15
+    },
+    {
+      "id": "C111001",
+      "checkpoint": 11,
+      "monsterId": 1001,
+      "probability": 0.55
+    },
+    {
+      "id": "C112001",
+      "checkpoint": 11,
+      "monsterId": 2001,
+      "probability": 0.15
+    },
+    {
+      "id": "C112002",
+      "checkpoint": 11,
+      "monsterId": 2002,
+      "probability": 0.15
+    },
+    {
+      "id": "C112003",
+      "checkpoint": 11,
+      "monsterId": 2003,
+      "probability": 0.15
+    },
+    {
+      "id": "C121001",
+      "checkpoint": 12,
+      "monsterId": 1001,
+      "probability": 0.5
+    },
+    {
+      "id": "C122001",
+      "checkpoint": 12,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C122002",
+      "checkpoint": 12,
+      "monsterId": 2002,
+      "probability": 0.15
+    },
+    {
+      "id": "C122003",
+      "checkpoint": 12,
+      "monsterId": 2003,
+      "probability": 0.15
+    },
+    {
+      "id": "C131001",
+      "checkpoint": 13,
+      "monsterId": 1001,
+      "probability": 0.3
+    },
+    {
+      "id": "C132001",
+      "checkpoint": 13,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C132002",
+      "checkpoint": 13,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C132003",
+      "checkpoint": 13,
+      "monsterId": 2003,
+      "probability": 0.15
+    },
+    {
+      "id": "C141001",
+      "checkpoint": 14,
+      "monsterId": 1001,
+      "probability": 0.4
+    },
+    {
+      "id": "C142001",
+      "checkpoint": 14,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C142002",
+      "checkpoint": 14,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C142003",
+      "checkpoint": 14,
+      "monsterId": 2003,
+      "probability": 0.2
+    },
+    {
+      "id": "C151001",
+      "checkpoint": 15,
+      "monsterId": 1001,
+      "probability": 0.4
+    },
+    {
+      "id": "C152001",
+      "checkpoint": 15,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C152002",
+      "checkpoint": 15,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C152003",
+      "checkpoint": 15,
+      "monsterId": 2003,
+      "probability": 0.2
+    },
+    {
+      "id": "C161001",
+      "checkpoint": 16,
+      "monsterId": 1001,
+      "probability": 0.4
+    },
+    {
+      "id": "C162001",
+      "checkpoint": 16,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C162002",
+      "checkpoint": 16,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C162003",
+      "checkpoint": 16,
+      "monsterId": 2003,
+      "probability": 0.2
+    },
+    {
+      "id": "C171001",
+      "checkpoint": 17,
+      "monsterId": 1001,
+      "probability": 0.4
+    },
+    {
+      "id": "C172001",
+      "checkpoint": 17,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C172002",
+      "checkpoint": 17,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C172003",
+      "checkpoint": 17,
+      "monsterId": 2003,
+      "probability": 0.2
+    },
+    {
+      "id": "C181001",
+      "checkpoint": 18,
+      "monsterId": 1001,
+      "probability": 0.4
+    },
+    {
+      "id": "C182001",
+      "checkpoint": 18,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C182002",
+      "checkpoint": 18,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C182003",
+      "checkpoint": 18,
+      "monsterId": 2003,
+      "probability": 0.2
+    },
+    {
+      "id": "C191001",
+      "checkpoint": 19,
+      "monsterId": 1001,
+      "probability": 0.4
+    },
+    {
+      "id": "C192001",
+      "checkpoint": 19,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C192002",
+      "checkpoint": 19,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C192003",
+      "checkpoint": 19,
+      "monsterId": 2003,
+      "probability": 0.2
+    },
+    {
+      "id": "C201001",
+      "checkpoint": 20,
+      "monsterId": 1001,
+      "probability": 0.4
+    },
+    {
+      "id": "C202001",
+      "checkpoint": 20,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C202002",
+      "checkpoint": 20,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C202003",
+      "checkpoint": 20,
+      "monsterId": 2003,
+      "probability": 0.2
+    },
+    {
+      "id": "C211001",
+      "checkpoint": 21,
+      "monsterId": 1001,
+      "probability": 0.4
+    },
+    {
+      "id": "C212001",
+      "checkpoint": 21,
+      "monsterId": 2001,
+      "probability": 0.2
+    },
+    {
+      "id": "C212002",
+      "checkpoint": 21,
+      "monsterId": 2002,
+      "probability": 0.2
+    },
+    {
+      "id": "C212003",
+      "checkpoint": 21,
+      "monsterId": 2003,
+      "probability": 0.2
+    }
+  ]
+}

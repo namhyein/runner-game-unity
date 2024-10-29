@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Static Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Static
+  m_TableCollectionNameGuidString: f867ae542b62243e098d123b28069094
+  m_Entries:
+  - m_Id: 2597678211072
+    m_Key: achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4908001517568
+    m_Key: ad_store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5317256536064
+    m_Key: coin_store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1735681630208
+    m_Key: contact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3205013430272
+    m_Key: daily_quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5298101149696
+    m_Key: dia_store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8698146578432
+    m_Key: game_start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11894655016960
+    m_Key: item_store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9477897052160
+    m_Key: loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7307801911296
+    m_Key: promotion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7995718098944
+    m_Key: ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6873407488
+    m_Key: setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4878033215488
+    m_Key: store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3267135266816
+    m_Key: weekly_quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 715611557584896
+    m_Key: currency
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7334465080385601554
+  references:
+    version: 2
+    RefIds:
+    - rid: 7334465080385601554
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1726042551096

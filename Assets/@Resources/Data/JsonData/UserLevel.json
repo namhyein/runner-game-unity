@@ -1,0 +1,1004 @@
+{
+  "items": [
+    {
+      "id": "L001",
+      "level": 1,
+      "exp": 0,
+      "cumulative_exp": 0,
+      "dia": 100,
+      "coin": 1000,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L002",
+      "level": 2,
+      "exp": 50,
+      "cumulative_exp": 50,
+      "dia": 30,
+      "coin": 200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L003",
+      "level": 3,
+      "exp": 100,
+      "cumulative_exp": 150,
+      "dia": 30,
+      "coin": 300,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L004",
+      "level": 4,
+      "exp": 150,
+      "cumulative_exp": 300,
+      "dia": 30,
+      "coin": 400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L005",
+      "level": 5,
+      "exp": 200,
+      "cumulative_exp": 500,
+      "dia": 30,
+      "coin": 500,
+      "potion": 1,
+      "heart": 0
+    },
+    {
+      "id": "L006",
+      "level": 6,
+      "exp": 200,
+      "cumulative_exp": 700,
+      "dia": 30,
+      "coin": 600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L007",
+      "level": 7,
+      "exp": 200,
+      "cumulative_exp": 900,
+      "dia": 50,
+      "coin": 700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L008",
+      "level": 8,
+      "exp": 200,
+      "cumulative_exp": 1100,
+      "dia": 50,
+      "coin": 800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L009",
+      "level": 9,
+      "exp": 200,
+      "cumulative_exp": 1300,
+      "dia": 50,
+      "coin": 900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L010",
+      "level": 10,
+      "exp": 200,
+      "cumulative_exp": 1500,
+      "dia": 50,
+      "coin": 1000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L011",
+      "level": 11,
+      "exp": 400,
+      "cumulative_exp": 1900,
+      "dia": 100,
+      "coin": 1100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L012",
+      "level": 12,
+      "exp": 600,
+      "cumulative_exp": 2500,
+      "dia": 100,
+      "coin": 1200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L013",
+      "level": 13,
+      "exp": 800,
+      "cumulative_exp": 3300,
+      "dia": 100,
+      "coin": 1300,
+      "potion": 2,
+      "heart": 0
+    },
+    {
+      "id": "L014",
+      "level": 14,
+      "exp": 1000,
+      "cumulative_exp": 4300,
+      "dia": 100,
+      "coin": 1400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L015",
+      "level": 15,
+      "exp": 1200,
+      "cumulative_exp": 5500,
+      "dia": 100,
+      "coin": 1500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L016",
+      "level": 16,
+      "exp": 1400,
+      "cumulative_exp": 6900,
+      "dia": 100,
+      "coin": 1600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L017",
+      "level": 17,
+      "exp": 1600,
+      "cumulative_exp": 8500,
+      "dia": 100,
+      "coin": 1700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L018",
+      "level": 18,
+      "exp": 1800,
+      "cumulative_exp": 10300,
+      "dia": 100,
+      "coin": 1800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L019",
+      "level": 19,
+      "exp": 2000,
+      "cumulative_exp": 12300,
+      "dia": 100,
+      "coin": 1900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L020",
+      "level": 20,
+      "exp": 2200,
+      "cumulative_exp": 14500,
+      "dia": 100,
+      "coin": 2000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L021",
+      "level": 21,
+      "exp": 2400,
+      "cumulative_exp": 16900,
+      "dia": 100,
+      "coin": 2100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L022",
+      "level": 22,
+      "exp": 2600,
+      "cumulative_exp": 19500,
+      "dia": 100,
+      "coin": 2200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L023",
+      "level": 23,
+      "exp": 2800,
+      "cumulative_exp": 22300,
+      "dia": 100,
+      "coin": 2300,
+      "potion": 3,
+      "heart": 0
+    },
+    {
+      "id": "L024",
+      "level": 24,
+      "exp": 3000,
+      "cumulative_exp": 25300,
+      "dia": 100,
+      "coin": 2400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L025",
+      "level": 25,
+      "exp": 3200,
+      "cumulative_exp": 28500,
+      "dia": 100,
+      "coin": 2500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L026",
+      "level": 26,
+      "exp": 3400,
+      "cumulative_exp": 31900,
+      "dia": 100,
+      "coin": 2600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L027",
+      "level": 27,
+      "exp": 3600,
+      "cumulative_exp": 35500,
+      "dia": 100,
+      "coin": 2700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L028",
+      "level": 28,
+      "exp": 3800,
+      "cumulative_exp": 39300,
+      "dia": 100,
+      "coin": 2800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L029",
+      "level": 29,
+      "exp": 4000,
+      "cumulative_exp": 43300,
+      "dia": 100,
+      "coin": 2900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L030",
+      "level": 30,
+      "exp": 4200,
+      "cumulative_exp": 47500,
+      "dia": 100,
+      "coin": 3000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L031",
+      "level": 31,
+      "exp": 4400,
+      "cumulative_exp": 51900,
+      "dia": 150,
+      "coin": 3100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L032",
+      "level": 32,
+      "exp": 4600,
+      "cumulative_exp": 56500,
+      "dia": 150,
+      "coin": 3200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L033",
+      "level": 33,
+      "exp": 4800,
+      "cumulative_exp": 61300,
+      "dia": 150,
+      "coin": 3300,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L034",
+      "level": 34,
+      "exp": 5000,
+      "cumulative_exp": 66300,
+      "dia": 150,
+      "coin": 3400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L035",
+      "level": 35,
+      "exp": 5200,
+      "cumulative_exp": 71500,
+      "dia": 150,
+      "coin": 3500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L036",
+      "level": 36,
+      "exp": 5400,
+      "cumulative_exp": 76900,
+      "dia": 150,
+      "coin": 3600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L037",
+      "level": 37,
+      "exp": 5600,
+      "cumulative_exp": 82500,
+      "dia": 150,
+      "coin": 3700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L038",
+      "level": 38,
+      "exp": 5800,
+      "cumulative_exp": 88300,
+      "dia": 150,
+      "coin": 3800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L039",
+      "level": 39,
+      "exp": 6000,
+      "cumulative_exp": 94300,
+      "dia": 150,
+      "coin": 3900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L040",
+      "level": 40,
+      "exp": 6200,
+      "cumulative_exp": 100500,
+      "dia": 150,
+      "coin": 4000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L041",
+      "level": 41,
+      "exp": 6400,
+      "cumulative_exp": 106900,
+      "dia": 200,
+      "coin": 4100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L042",
+      "level": 42,
+      "exp": 6600,
+      "cumulative_exp": 113500,
+      "dia": 200,
+      "coin": 4200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L043",
+      "level": 43,
+      "exp": 6800,
+      "cumulative_exp": 120300,
+      "dia": 200,
+      "coin": 4300,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L044",
+      "level": 44,
+      "exp": 7000,
+      "cumulative_exp": 127300,
+      "dia": 200,
+      "coin": 4400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L045",
+      "level": 45,
+      "exp": 7200,
+      "cumulative_exp": 134500,
+      "dia": 200,
+      "coin": 4500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L046",
+      "level": 46,
+      "exp": 7400,
+      "cumulative_exp": 141900,
+      "dia": 200,
+      "coin": 4600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L047",
+      "level": 47,
+      "exp": 7600,
+      "cumulative_exp": 149500,
+      "dia": 200,
+      "coin": 4700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L048",
+      "level": 48,
+      "exp": 7800,
+      "cumulative_exp": 157300,
+      "dia": 200,
+      "coin": 4800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L049",
+      "level": 49,
+      "exp": 8000,
+      "cumulative_exp": 165300,
+      "dia": 200,
+      "coin": 4900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L050",
+      "level": 50,
+      "exp": 8200,
+      "cumulative_exp": 173500,
+      "dia": 200,
+      "coin": 5000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L051",
+      "level": 51,
+      "exp": 8700,
+      "cumulative_exp": 182200,
+      "dia": 200,
+      "coin": 5100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L052",
+      "level": 52,
+      "exp": 9200,
+      "cumulative_exp": 191400,
+      "dia": 200,
+      "coin": 5200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L053",
+      "level": 53,
+      "exp": 9700,
+      "cumulative_exp": 201100,
+      "dia": 200,
+      "coin": 5300,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L054",
+      "level": 54,
+      "exp": 10200,
+      "cumulative_exp": 211300,
+      "dia": 200,
+      "coin": 5400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L055",
+      "level": 55,
+      "exp": 10700,
+      "cumulative_exp": 222000,
+      "dia": 200,
+      "coin": 5500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L056",
+      "level": 56,
+      "exp": 11200,
+      "cumulative_exp": 233200,
+      "dia": 200,
+      "coin": 5600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L057",
+      "level": 57,
+      "exp": 11700,
+      "cumulative_exp": 244900,
+      "dia": 200,
+      "coin": 5700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L058",
+      "level": 58,
+      "exp": 12200,
+      "cumulative_exp": 257100,
+      "dia": 200,
+      "coin": 5800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L059",
+      "level": 59,
+      "exp": 12700,
+      "cumulative_exp": 269800,
+      "dia": 200,
+      "coin": 5900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L060",
+      "level": 60,
+      "exp": 13200,
+      "cumulative_exp": 283000,
+      "dia": 200,
+      "coin": 6000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L061",
+      "level": 61,
+      "exp": 13700,
+      "cumulative_exp": 296700,
+      "dia": 200,
+      "coin": 6100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L062",
+      "level": 62,
+      "exp": 14200,
+      "cumulative_exp": 310900,
+      "dia": 200,
+      "coin": 6200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L063",
+      "level": 63,
+      "exp": 14700,
+      "cumulative_exp": 325600,
+      "dia": 200,
+      "coin": 6300,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L064",
+      "level": 64,
+      "exp": 15200,
+      "cumulative_exp": 340800,
+      "dia": 200,
+      "coin": 6400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L065",
+      "level": 65,
+      "exp": 15700,
+      "cumulative_exp": 356500,
+      "dia": 200,
+      "coin": 6500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L066",
+      "level": 66,
+      "exp": 16200,
+      "cumulative_exp": 372700,
+      "dia": 200,
+      "coin": 6600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L067",
+      "level": 67,
+      "exp": 16700,
+      "cumulative_exp": 389400,
+      "dia": 200,
+      "coin": 6700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L068",
+      "level": 68,
+      "exp": 17200,
+      "cumulative_exp": 406600,
+      "dia": 200,
+      "coin": 6800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L069",
+      "level": 69,
+      "exp": 17700,
+      "cumulative_exp": 424300,
+      "dia": 200,
+      "coin": 6900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L070",
+      "level": 70,
+      "exp": 18200,
+      "cumulative_exp": 442500,
+      "dia": 200,
+      "coin": 7000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L071",
+      "level": 71,
+      "exp": 18700,
+      "cumulative_exp": 461200,
+      "dia": 200,
+      "coin": 7100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L072",
+      "level": 72,
+      "exp": 19200,
+      "cumulative_exp": 480400,
+      "dia": 200,
+      "coin": 7200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L073",
+      "level": 73,
+      "exp": 19700,
+      "cumulative_exp": 500100,
+      "dia": 200,
+      "coin": 7300,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L074",
+      "level": 74,
+      "exp": 20200,
+      "cumulative_exp": 520300,
+      "dia": 200,
+      "coin": 7400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L075",
+      "level": 75,
+      "exp": 20700,
+      "cumulative_exp": 541000,
+      "dia": 200,
+      "coin": 7500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L076",
+      "level": 76,
+      "exp": 21200,
+      "cumulative_exp": 562200,
+      "dia": 200,
+      "coin": 7600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L077",
+      "level": 77,
+      "exp": 21700,
+      "cumulative_exp": 583900,
+      "dia": 200,
+      "coin": 7700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L078",
+      "level": 78,
+      "exp": 22200,
+      "cumulative_exp": 606100,
+      "dia": 200,
+      "coin": 7800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L079",
+      "level": 79,
+      "exp": 22700,
+      "cumulative_exp": 628800,
+      "dia": 200,
+      "coin": 7900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L080",
+      "level": 80,
+      "exp": 23200,
+      "cumulative_exp": 652000,
+      "dia": 200,
+      "coin": 8000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L081",
+      "level": 81,
+      "exp": 23700,
+      "cumulative_exp": 675700,
+      "dia": 200,
+      "coin": 8100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L082",
+      "level": 82,
+      "exp": 24200,
+      "cumulative_exp": 699900,
+      "dia": 200,
+      "coin": 8200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L083",
+      "level": 83,
+      "exp": 24700,
+      "cumulative_exp": 724600,
+      "dia": 200,
+      "coin": 8300,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L084",
+      "level": 84,
+      "exp": 25200,
+      "cumulative_exp": 749800,
+      "dia": 200,
+      "coin": 8400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L085",
+      "level": 85,
+      "exp": 25700,
+      "cumulative_exp": 775500,
+      "dia": 200,
+      "coin": 8500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L086",
+      "level": 86,
+      "exp": 26200,
+      "cumulative_exp": 801700,
+      "dia": 200,
+      "coin": 8600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L087",
+      "level": 87,
+      "exp": 26700,
+      "cumulative_exp": 828400,
+      "dia": 200,
+      "coin": 8700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L088",
+      "level": 88,
+      "exp": 27200,
+      "cumulative_exp": 855600,
+      "dia": 200,
+      "coin": 8800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L089",
+      "level": 89,
+      "exp": 27700,
+      "cumulative_exp": 883300,
+      "dia": 200,
+      "coin": 8900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L090",
+      "level": 90,
+      "exp": 28200,
+      "cumulative_exp": 911500,
+      "dia": 200,
+      "coin": 9000,
+      "potion": 0,
+      "heart": 1
+    },
+    {
+      "id": "L091",
+      "level": 91,
+      "exp": 28700,
+      "cumulative_exp": 940200,
+      "dia": 200,
+      "coin": 9100,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L092",
+      "level": 92,
+      "exp": 29200,
+      "cumulative_exp": 969400,
+      "dia": 200,
+      "coin": 9200,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L093",
+      "level": 93,
+      "exp": 29700,
+      "cumulative_exp": 999100,
+      "dia": 200,
+      "coin": 9300,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L094",
+      "level": 94,
+      "exp": 30200,
+      "cumulative_exp": 1029300,
+      "dia": 200,
+      "coin": 9400,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L095",
+      "level": 95,
+      "exp": 30700,
+      "cumulative_exp": 1060000,
+      "dia": 200,
+      "coin": 9500,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L096",
+      "level": 96,
+      "exp": 31200,
+      "cumulative_exp": 1091200,
+      "dia": 200,
+      "coin": 9600,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L097",
+      "level": 97,
+      "exp": 31700,
+      "cumulative_exp": 1122900,
+      "dia": 200,
+      "coin": 9700,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L098",
+      "level": 98,
+      "exp": 32200,
+      "cumulative_exp": 1155100,
+      "dia": 200,
+      "coin": 9800,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L099",
+      "level": 99,
+      "exp": 32700,
+      "cumulative_exp": 1187800,
+      "dia": 200,
+      "coin": 9900,
+      "potion": 0,
+      "heart": 0
+    },
+    {
+      "id": "L100",
+      "level": 100,
+      "exp": 33200,
+      "cumulative_exp": 1221000,
+      "dia": 200,
+      "coin": 10000,
+      "potion": 0,
+      "heart": 1
+    }
+  ]
+}

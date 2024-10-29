@@ -1,0 +1,41 @@
+id,ko,en,ja,zh,fr,es
+T100100,우주 점프,Cosmic Leap,宇宙ジャンプ,太空跳躍,Bond Cosmique,Salto Cósmico
+T100010,중력 조작기,Gravity Bender,重力操作装置,重力操縱器,Manipulateur de Gravité,Manipulador de Gravedad
+T111000,무적의 방울,Invincibility Bubble,無敵シールド,無敵護盾,Bulle d'Invincibilité,Burbuja de Invencibilidad
+T100000,시간 왜곡,Time Warp,時空歪曲,時間扭曲,Distorsion Temporelle,Distorsión Temporal
+T111110,번개 질주,Lightning Dash,稲妻ダッシュ,閃電衝刺,Sprint Éclair,Carrera Relámpago
+T200001,차원 뒤틀기,Dimension Twist,次元歪み,次元扭轉,Torsion Dimensionnelle,Torsión Dimensional
+T200002,부유하는 구름,Floating Cloud,浮遊雲,浮雲,Nuage Flottant,Nube Flotante
+PO2100000,광고 제거,Ad-Free Adventure,広告なしの冒険,無廣告冒險,Aventure Sans Pub,Aventura Sin Anuncios
+PO2105111,스타터 패키지,Adventurer's Treasure,冒険者のパッケージ,冒險者套裝,Trésor de l'Aventurier,Tesoro del Aventurero
+PO2125111,전설의 고양이 패키지,Legendary Hero Package,伝説の英雄パッケージ,傳奇英雄套裝,Pack du Héros Légendaire,Paquete de Héroe Legendario
+PD3000001,무한의 생명력 (1일),Infinite Vitality (1 Day),無限の生命力(1日),無限活力(1天),Vitalité Infinie (1 Jour),Vitalidad Infinita (1 Día)
+PW3002101,무한의 생명력 (7일),Infinite Vitality (7 Days),無限の生命力(7日),無限活力(7天),Vitalité Infinie (7 Jours),Vitalidad Infinita (7 Días)
+PM3110111,무한의 생명력 (30일),Infinite Vitality (30 Days),無限の生命力(30日),無限活力(30天),Vitalité Infinie (30 Jours),Vitalidad Infinita (30 Días)
+QD1008,로그인 1회,Login 1 Time,ログイン1回,登入1次,Se Connecter 1 Fois,Iniciar Sesión 1 Vez
+QD1007,모험 1회 완료,Complete 1 Adventure,冒険を1回完了,完成1次冒險,Terminer 1 Aventure,Completar 1 Aventura
+QD1006,아이템 10회 사용,Use Items 10 Times,アイテムを10回使用,使用道具10次,Utiliser des Objets 10 Fois,Usar Objetos 10 Veces
+QD2005,다이아 50개 수집,Collect 50 Diamonds,ダイヤを50個集める,收集50個鑽石,Collecter 50 Diamants,Recolectar 50 Diamantes
+QD2004,상점에서 구매하기,Make a Purchase at the Shop,ショップで購入する,在商店購買,Faire un Achat à la Boutique,Hacer una Compra en la Tienda
+QD2003,하트 탕진 1회,Deplete Hearts 1 Time,ハートを1回使い切る,耗盡心心1次,Épuiser les Cœurs 1 Fois,Agotar Corazones 1 Vez
+QD3002,보상 획득 5회,Obtain Rewards 5 Times,報酬を5回獲得,獲得獎勵5次,Obtenir des Récompenses 5 Fois,Obtener Recompensas 5 Veces
+QD3001,인앱구매 1회,Make 1 In-App Purchase,アプリ内購入を1回行う,完成1次應用內購買,Faire 1 Achat In-App,Realizar 1 Compra en la Aplicación
+QW3001,일일퀘스트 5회 완료,Complete 5 Daily Quests,デイリークエストを5回完了,完成5次每日任務,Accomplir 5 Quêtes Quotidiennes,Completar 5 Misiones Diarias
+QW3002,보상 획득 20회,Obtain Rewards 20 Times,報酬を20回獲得,獲得獎勵20次,Obtenir des Récompenses 20 Fois,Obtener Recompensas 20 Veces
+QW1003,로그인 3회,Login 3 Times,ログイン3回,登入3次,Se Connecter 3 Fois,Iniciar Sesión 3 Veces
+QW2004,"500,000m 모험하기","Adventure for 500,000m","500,000m冒険する","冒險500,000米","Partir à l'Aventure sur 500,000m","Aventurarse por 500,000m"
+QW1005,모험하기 10회,Go on 10 Adventures,10回冒険する,進行10次冒險,Partir pour 10 Aventures,Ir de Aventura 10 Veces
+QW2006,500마리 몬스터 물리치기,Defeat 500 Monsters,モンスターを500体倒す,擊敗500隻怪物,Vaincre 500 Monstres,Derrotar a 500 Monstruos
+QW2007,캣닢 1000개 수집,Collect 1000 Catnip,キャットニップを1000個集める,收集1000個貓薄荷,Collecter 1000 Herbes à Chat,Recolectar 1000 Hierba Gatera
+QW2008,영웅 레벨 상승 1회,Level Up Hero 1 Time,英雄のレベルを1回上げる,提升英雄等級1次,Augmenter le Niveau du Héros 1 Fois,Subir de Nivel al Héroe 1 Vez
+QA3001,상점 구매 {}회,Make {} Purchases at the Shop,ショップで{}回購入,在商店購買{}次,Faire {} Achats à la Boutique,Hacer {} Compras en la Tienda
+QA3002,보상 획득 {}회,Obtain Rewards {} Times,報酬を{}回獲得,獲得獎勵{}次,Obtenir des Récompenses {} Fois,Obtener Recompensas {} Veces
+QA2002,다이아 {}개 사용,Use {} Diamonds,ダイヤを{}個使用,使用{}個鑽石,Utiliser {} Diamants,Usar {} Diamantes
+QA2004,코인 {}개 사용,Use {} Coins,コインを{}個使用,使用{}個金幣,Utiliser {} Pièces,Usar {} Monedas
+QA1005,로그인 {}회,Login {} Times,ログイン{}回,登入{}次,Se Connecter {} Fois,Iniciar Sesión {} Veces
+QA2006,영웅 {}번 성장시키기,Grow Hero {} Times,英雄を{}回成長させる,培養英雄{}次,Faire Grandir le Héros {} Fois,Hacer Crecer al Héroe {} Veces
+QA2007,부활의 포션 {}회 사용,Use Revival Potion {} Times,復活ポーションを{}回使用,使用復活藥水{}次,Utiliser la Potion de Résurrection {} Fois,Usar Poción de Resurrección {} Veces
+QA2008,신비한 괴물 {}마리 처치,Defeat {} Mystical Creatures,神秘的な生き物を{}体倒す,擊敗{}隻神秘生物,Vaincre {} Créatures Mystiques,Derrotar a {} Criaturas Místicas
+QA2009,모험 {}회 완료,Complete {} Adventures,冒険を{}回完了,完成{}次冒險,Terminer {} Aventures,Completar {} Aventuras
+QA2010,아이템 사용 {}회,Use Items {} Times,アイテムを{}回使用,使用道具{}次,Utiliser des Objets {} Fois,Usar Objetos {} Veces
+QA2011,신기록 달성 {}회,Achieve New Record {} Times,新記録を{}回達成,達成新紀錄{}次,Établir un Nouveau Record {} Fois,Lograr un Nuevo Récord {} Veces

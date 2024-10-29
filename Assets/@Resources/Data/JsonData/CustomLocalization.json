@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "id": "T100100",
+      "ko": "우주 점프",
+      "en": "Cosmic Leap",
+      "ja": "宇宙ジャンプ",
+      "zh": "太空跳躍",
+      "fr": "Bond Cosmique",
+      "es": "Salto Cósmico"
+    },
+    {
+      "id": "T100010",
+      "ko": "중력 조작기",
+      "en": "Gravity Bender",
+      "ja": "重力操作装置",
+      "zh": "重力操縱器",
+      "fr": "Manipulateur de Gravité",
+      "es": "Manipulador de Gravedad"
+    },
+    {
+      "id": "T111000",
+      "ko": "무적의 방울",
+      "en": "Invincibility Bubble",
+      "ja": "無敵シールド",
+      "zh": "無敵護盾",
+      "fr": "Bulle d'Invincibilité",
+      "es": "Burbuja de Invencibilidad"
+    },
+    {
+      "id": "T100000",
+      "ko": "시간 왜곡",
+      "en": "Time Warp",
+      "ja": "時空歪曲",
+      "zh": "時間扭曲",
+      "fr": "Distorsion Temporelle",
+      "es": "Distorsión Temporal"
+    },
+    {
+      "id": "T111110",
+      "ko": "번개 질주",
+      "en": "Lightning Dash",
+      "ja": "稲妻ダッシュ",
+      "zh": "閃電衝刺",
+      "fr": "Sprint Éclair",
+      "es": "Carrera Relámpago"
+    },
+    {
+      "id": "T200001",
+      "ko": "차원 뒤틀기",
+      "en": "Dimension Twist",
+      "ja": "次元歪み",
+      "zh": "次元扭轉",
+      "fr": "Torsion Dimensionnelle",
+      "es": "Torsión Dimensional"
+    },
+    {
+      "id": "T200002",
+      "ko": "부유하는 구름",
+      "en": "Floating Cloud",
+      "ja": "浮遊雲",
+      "zh": "浮雲",
+      "fr": "Nuage Flottant",
+      "es": "Nube Flotante"
+    },
+    {
+      "id": "PO2100000",
+      "ko": "광고 제거",
+      "en": "Ad-Free Adventure",
+      "ja": "広告なしの冒険",
+      "zh": "無廣告冒險",
+      "fr": "Aventure Sans Pub",
+      "es": "Aventura Sin Anuncios"
+    },
+    {
+      "id": "PO2105111",
+      "ko": "스타터 패키지",
+      "en": "Adventurer's Treasure",
+      "ja": "冒険者のパッケージ",
+      "zh": "冒險者套裝",
+      "fr": "Trésor de l'Aventurier",
+      "es": "Tesoro del Aventurero"
+    },
+    {
+      "id": "PO2125111",
+      "ko": "전설의 고양이 패키지",
+      "en": "Legendary Hero Package",
+      "ja": "伝説の英雄パッケージ",
+      "zh": "傳奇英雄套裝",
+      "fr": "Pack du Héros Légendaire",
+      "es": "Paquete de Héroe Legendario"
+    },
+    {
+      "id": "PD3000001",
+      "ko": "무한의 생명력 (1일)",
+      "en": "Infinite Vitality (1 Day)",
+      "ja": "無限の生命力(1日)",
+      "zh": "無限活力(1天)",
+      "fr": "Vitalité Infinie (1 Jour)",
+      "es": "Vitalidad Infinita (1 Día)"
+    },
+    {
+      "id": "PW3002101",
+      "ko": "무한의 생명력 (7일)",
+      "en": "Infinite Vitality (7 Days)",
+      "ja": "無限の生命力(7日)",
+      "zh": "無限活力(7天)",
+      "fr": "Vitalité Infinie (7 Jours)",
+      "es": "Vitalidad Infinita (7 Días)"
+    },
+    {
+      "id": "PM3110111",
+      "ko": "무한의 생명력 (30일)",
+      "en": "Infinite Vitality (30 Days)",
+      "ja": "無限の生命力(30日)",
+      "zh": "無限活力(30天)",
+      "fr": "Vitalité Infinie (30 Jours)",
+      "es": "Vitalidad Infinita (30 Días)"
+    },
+    {
+      "id": "QD1008",
+      "ko": "로그인 1회",
+      "en": "Login 1 Time",
+      "ja": "ログイン1回",
+      "zh": "登入1次",
+      "fr": "Se Connecter 1 Fois",
+      "es": "Iniciar Sesión 1 Vez"
+    },
+    {
+      "id": "QD1007",
+      "ko": "모험 1회 완료",
+      "en": "Complete 1 Adventure",
+      "ja": "冒険を1回完了",
+      "zh": "完成1次冒險",
+      "fr": "Terminer 1 Aventure",
+      "es": "Completar 1 Aventura"
+    },
+    {
+      "id": "QD1006",
+      "ko": "아이템 10회 사용",
+      "en": "Use Items 10 Times",
+      "ja": "アイテムを10回使用",
+      "zh": "使用道具10次",
+      "fr": "Utiliser des Objets 10 Fois",
+      "es": "Usar Objetos 10 Veces"
+    },
+    {
+      "id": "QD2005",
+      "ko": "다이아 50개 수집",
+      "en": "Collect 50 Diamonds",
+      "ja": "ダイヤを50個集める",
+      "zh": "收集50個鑽石",
+      "fr": "Collecter 50 Diamants",
+      "es": "Recolectar 50 Diamantes"
+    },
+    {
+      "id": "QD2004",
+      "ko": "상점에서 구매하기",
+      "en": "Make a Purchase at the Shop",
+      "ja": "ショップで購入する",
+      "zh": "在商店購買",
+      "fr": "Faire un Achat à la Boutique",
+      "es": "Hacer una Compra en la Tienda"
+    },
+    {
+      "id": "QD2003",
+      "ko": "하트 탕진 1회",
+      "en": "Deplete Hearts 1 Time",
+      "ja": "ハートを1回使い切る",
+      "zh": "耗盡心心1次",
+      "fr": "Épuiser les Cœurs 1 Fois",
+      "es": "Agotar Corazones 1 Vez"
+    },
+    {
+      "id": "QD3002",
+      "ko": "보상 획득 5회",
+      "en": "Obtain Rewards 5 Times",
+      "ja": "報酬を5回獲得",
+      "zh": "獲得獎勵5次",
+      "fr": "Obtenir des Récompenses 5 Fois",
+      "es": "Obtener Recompensas 5 Veces"
+    },
+    {
+      "id": "QD3001",
+      "ko": "인앱구매 1회",
+      "en": "Make 1 In-App Purchase",
+      "ja": "アプリ内購入を1回行う",
+      "zh": "完成1次應用內購買",
+      "fr": "Faire 1 Achat In-App",
+      "es": "Realizar 1 Compra en la Aplicación"
+    },
+    {
+      "id": "QW3001",
+      "ko": "일일퀘스트 5회 완료",
+      "en": "Complete 5 Daily Quests",
+      "ja": "デイリークエストを5回完了",
+      "zh": "完成5次每日任務",
+      "fr": "Accomplir 5 Quêtes Quotidiennes",
+      "es": "Completar 5 Misiones Diarias"
+    },
+    {
+      "id": "QW3002",
+      "ko": "보상 획득 20회",
+      "en": "Obtain Rewards 20 Times",
+      "ja": "報酬を20回獲得",
+      "zh": "獲得獎勵20次",
+      "fr": "Obtenir des Récompenses 20 Fois",
+      "es": "Obtener Recompensas 20 Veces"
+    },
+    {
+      "id": "QW1003",
+      "ko": "로그인 3회",
+      "en": "Login 3 Times",
+      "ja": "ログイン3回",
+      "zh": "登入3次",
+      "fr": "Se Connecter 3 Fois",
+      "es": "Iniciar Sesión 3 Veces"
+    },
+    {
+      "id": "QW2004",
+      "ko": "500,000m 모험하기",
+      "en": "Adventure for 500,000m",
+      "ja": "500,000m冒険する",
+      "zh": "冒險500,000米",
+      "fr": "Partir à l'Aventure sur 500,000m",
+      "es": "Aventurarse por 500,000m"
+    },
+    {
+      "id": "QW1005",
+      "ko": "모험하기 10회",
+      "en": "Go on 10 Adventures",
+      "ja": "10回冒険する",
+      "zh": "進行10次冒險",
+      "fr": "Partir pour 10 Aventures",
+      "es": "Ir de Aventura 10 Veces"
+    },
+    {
+      "id": "QW2006",
+      "ko": "500마리 몬스터 물리치기",
+      "en": "Defeat 500 Monsters",
+      "ja": "モンスターを500体倒す",
+      "zh": "擊敗500隻怪物",
+      "fr": "Vaincre 500 Monstres",
+      "es": "Derrotar a 500 Monstruos"
+    },
+    {
+      "id": "QW2007",
+      "ko": "캣닢 1000개 수집",
+      "en": "Collect 1000 Catnip",
+      "ja": "キャットニップを1000個集める",
+      "zh": "收集1000個貓薄荷",
+      "fr": "Collecter 1000 Herbes à Chat",
+      "es": "Recolectar 1000 Hierba Gatera"
+    },
+    {
+      "id": "QW2008",
+      "ko": "영웅 레벨 상승 1회",
+      "en": "Level Up Hero 1 Time",
+      "ja": "英雄のレベルを1回上げる",
+      "zh": "提升英雄等級1次",
+      "fr": "Augmenter le Niveau du Héros 1 Fois",
+      "es": "Subir de Nivel al Héroe 1 Vez"
+    },
+    {
+      "id": "QA3001",
+      "ko": "상점 구매 {}회",
+      "en": "Make {} Purchases at the Shop",
+      "ja": "ショップで{}回購入",
+      "zh": "在商店購買{}次",
+      "fr": "Faire {} Achats à la Boutique",
+      "es": "Hacer {} Compras en la Tienda"
+    },
+    {
+      "id": "QA3002",
+      "ko": "보상 획득 {}회",
+      "en": "Obtain Rewards {} Times",
+      "ja": "報酬を{}回獲得",
+      "zh": "獲得獎勵{}次",
+      "fr": "Obtenir des Récompenses {} Fois",
+      "es": "Obtener Recompensas {} Veces"
+    },
+    {
+      "id": "QA2002",
+      "ko": "다이아 {}개 사용",
+      "en": "Use {} Diamonds",
+      "ja": "ダイヤを{}個使用",
+      "zh": "使用{}個鑽石",
+      "fr": "Utiliser {} Diamants",
+      "es": "Usar {} Diamantes"
+    },
+    {
+      "id": "QA2004",
+      "ko": "코인 {}개 사용",
+      "en": "Use {} Coins",
+      "ja": "コインを{}個使用",
+      "zh": "使用{}個金幣",
+      "fr": "Utiliser {} Pièces",
+      "es": "Usar {} Monedas"
+    },
+    {
+      "id": "QA1005",
+      "ko": "로그인 {}회",
+      "en": "Login {} Times",
+      "ja": "ログイン{}回",
+      "zh": "登入{}次",
+      "fr": "Se Connecter {} Fois",
+      "es": "Iniciar Sesión {} Veces"
+    },
+    {
+      "id": "QA2006",
+      "ko": "영웅 {}번 성장시키기",
+      "en": "Grow Hero {} Times",
+      "ja": "英雄を{}回成長させる",
+      "zh": "培養英雄{}次",
+      "fr": "Faire Grandir le Héros {} Fois",
+      "es": "Hacer Crecer al Héroe {} Veces"
+    },
+    {
+      "id": "QA2007",
+      "ko": "부활의 포션 {}회 사용",
+      "en": "Use Revival Potion {} Times",
+      "ja": "復活ポーションを{}回使用",
+      "zh": "使用復活藥水{}次",
+      "fr": "Utiliser la Potion de Résurrection {} Fois",
+      "es": "Usar Poción de Resurrección {} Veces"
+    },
+    {
+      "id": "QA2008",
+      "ko": "신비한 괴물 {}마리 처치",
+      "en": "Defeat {} Mystical Creatures",
+      "ja": "神秘的な生き物を{}体倒す",
+      "zh": "擊敗{}隻神秘生物",
+      "fr": "Vaincre {} Créatures Mystiques",
+      "es": "Derrotar a {} Criaturas Místicas"
+    },
+    {
+      "id": "QA2009",
+      "ko": "모험 {}회 완료",
+      "en": "Complete {} Adventures",
+      "ja": "冒険を{}回完了",
+      "zh": "完成{}次冒險",
+      "fr": "Terminer {} Aventures",
+      "es": "Completar {} Aventuras"
+    },
+    {
+      "id": "QA2010",
+      "ko": "아이템 사용 {}회",
+      "en": "Use Items {} Times",
+      "ja": "アイテムを{}回使用",
+      "zh": "使用道具{}次",
+      "fr": "Utiliser des Objets {} Fois",
+      "es": "Usar Objetos {} Veces"
+    },
+    {
+      "id": "QA2011",
+      "ko": "신기록 달성 {}회",
+      "en": "Achieve New Record {} Times",
+      "ja": "新記録を{}回達成",
+      "zh": "達成新紀錄{}次",
+      "fr": "Établir un Nouveau Record {} Fois",
+      "es": "Lograr un Nuevo Récord {} Veces"
+    }
+  ]
+}

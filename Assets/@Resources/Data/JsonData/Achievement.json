@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "id": "QA3001",
+      "type": 3,
+      "priority": 1,
+      "score": 30,
+      "init": 1,
+      "rule": 3,
+      "ex": 0
+    },
+    {
+      "id": "QA3002",
+      "type": 3,
+      "priority": 2,
+      "score": 30,
+      "init": 30,
+      "rule": 30,
+      "ex": 0
+    },
+    {
+      "id": "QA2002",
+      "type": 2,
+      "priority": 3,
+      "score": 20,
+      "init": 1000,
+      "rule": 1000,
+      "ex": 10
+    },
+    {
+      "id": "QA2004",
+      "type": 2,
+      "priority": 4,
+      "score": 20,
+      "init": 100000,
+      "rule": 100000,
+      "ex": 10
+    },
+    {
+      "id": "QA1005",
+      "type": 1,
+      "priority": 5,
+      "score": 10,
+      "init": 5,
+      "rule": 5,
+      "ex": 0
+    },
+    {
+      "id": "QA2006",
+      "type": 2,
+      "priority": 6,
+      "score": 20,
+      "init": 10,
+      "rule": 10,
+      "ex": 0
+    },
+    {
+      "id": "QA2007",
+      "type": 2,
+      "priority": 7,
+      "score": 20,
+      "init": 10,
+      "rule": 10,
+      "ex": 20
+    },
+    {
+      "id": "QA2008",
+      "type": 2,
+      "priority": 8,
+      "score": 20,
+      "init": 100,
+      "rule": 100,
+      "ex": 30
+    },
+    {
+      "id": "QA2009",
+      "type": 2,
+      "priority": 9,
+      "score": 20,
+      "init": 50,
+      "rule": 100,
+      "ex": 10
+    },
+    {
+      "id": "QA2010",
+      "type": 2,
+      "priority": 10,
+      "score": 20,
+      "init": 100,
+      "rule": 100,
+      "ex": 10
+    },
+    {
+      "id": "QA2011",
+      "type": 2,
+      "priority": 11,
+      "score": 20,
+      "init": 5,
+      "rule": 5,
+      "ex": 50
+    }
+  ]
+}

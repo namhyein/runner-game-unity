@@ -1,0 +1,5 @@
+id,type,count,currency,price
+COIN,0,10000,Diamond,30
+COIN,0,35000,Diamond,100
+COIN,0,110000,Diamond,300
+COIN,0,400000,Diamond,1000
